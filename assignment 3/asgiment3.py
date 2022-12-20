@@ -145,7 +145,8 @@ print(list2)
 
 
 
-#Q4 Write a program to prompt the user for a grade between 4 and 10. If the grade is out of range print error message. If the grade is between 4 and 10 Print the grade and the performance using the following:
+#Q4 Write a program to prompt the user for a grade between 4 and 10. If the grade is out of range print error message. If the grade is between 4 and 10 Print the grade and the performance using the following:
+
 
 print("\nQuestion 4")
 
